@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCcardMaster</string>
+    <string name="valor_rfid">Este es el valor que se ha leido:</string>
+</resources>
